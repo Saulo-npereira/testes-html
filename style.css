@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(87, 15, 15);
-    color: white;
+    background-color: hsl(272, 86%, 8%);
+    color: rgb(249, 171, 43);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .contato {
@@ -17,12 +17,14 @@ footer {
 button {
     background-color: black;
     border-radius: 40%;
-    color: white;
+    color: rgb(255, 255, 255);
 }
-nav {
-    text-align: center;
-    
+
+nav a{
+    text-decoration: none;
+    color: rgb(249, 171, 43);
 }
-li {
-    color: rgb(87, 15, 15);
+nav ul{
+    list-style: none;
+    color: rgb(249, 171, 43);
 }

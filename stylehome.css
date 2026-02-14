@@ -1,9 +1,18 @@
 body {
-    background-color: rgb(87, 15, 15);
-    text-align: center;
-    color: white;
+    background-color: rgb(22, 3, 39);
+    color: rgb(249, 171, 43);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-nav {
-    color: rgb(87, 15, 15);
+nav a{
+    color: rgb(249, 171, 43);
+    text-decoration: none;
+}
+nav ul{
+    list-style: none;
+}
+section {
+    text-align: center;
+}
+footer {
+    text-align: center;
 }
